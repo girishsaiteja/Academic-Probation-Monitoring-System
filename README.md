@@ -37,9 +37,6 @@ The system automatically identifies low-performing students and stores them for 
 The relational structure allows the project to be extended to more subjects, semesters, or academic rules.
 
 🧮 Core PL/SQL Logic (Summary)
-
 Function: Calculates CGPA from six subjects.
-
 Trigger: Automates calculation and updates GPA_INFO after each student’s marks are inserted.
-
 Cursor: Used to generate structured output reports for flagged students.
